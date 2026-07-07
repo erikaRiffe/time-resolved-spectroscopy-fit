@@ -18,6 +18,7 @@ notebook list and the 0x / 1x / 2x numeric-block legend.
 | [02_dependent_parameters](fitting_workflows/02_dependent_parameters/) | Link parameters with expressions and physical constraints. |
 | [03_multi_cycle_dynamics](fitting_workflows/03_multi_cycle_dynamics/) | Multi-cycle dynamics with subcycles and frequency. |
 | [04_parameter_profiles](fitting_workflows/04_parameter_profiles/)   | Depth-dependent parameters via profile functions (with optional time-dependence). |
+| [05_non_time_resolved_depth_profile](fitting_workflows/05_non_time_resolved_depth_profile/) | Load and group non-time-resolved .xy spectra by core level and depth. |
 | [10_model_comparison](fitting_workflows/10_model_comparison/)       | Compare two models on the same file (baseline / SbS / 2D). |
 | [11_save_load_export](fitting_workflows/11_save_load_export/)       | `FitResults` HDF5 round-trip, CSV/PNG export, "ship just the winners". |
 | [12_uncertainty_mcmc](fitting_workflows/12_uncertainty_mcmc/)       | Three tiers of parameter uncertainty — `stderr`, profiled CIs, and MCMC — checked against truth. |

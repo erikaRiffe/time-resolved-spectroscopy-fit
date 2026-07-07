@@ -22,6 +22,7 @@ The numbering restarts at the next block boundary as new notebooks are added.
 | [`02_dependent_parameters`](02_dependent_parameters/)         | Link parameters with expressions (e.g. spin-orbit doublets). |
 | [`03_multi_cycle_dynamics`](03_multi_cycle_dynamics/)         | Multi-cycle dynamics with subcycles and frequency. |
 | [`04_parameter_profiles`](04_parameter_profiles/)             | Depth-dependent parameters with profile functions (single or combined with time-dependence). |
+| [`05_non_time_resolved_depth_profile`](05_non_time_resolved_depth_profile/) | Load and group non-time-resolved .xy spectra by core level and depth. |
 | [`10_model_comparison`](10_model_comparison/)                 | Compare two models on the same file (baseline, slice-by-slice, 2D). |
 | [`11_save_load_export`](11_save_load_export/)                 | `FitResults` HDF5 round-trip, CSV/PNG export, "ship just the winners". |
 | [`12_uncertainty_mcmc`](12_uncertainty_mcmc/)                 | Three tiers of parameter uncertainty — `stderr`, profiled CIs, and MCMC — checked against truth. |
